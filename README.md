@@ -2,7 +2,7 @@
 
 installation process 
 
-command 1 : https://github.com/Gowtham-Varshith/crypto
+command 1 :https://github.com/Kotesh-Avvari/crypto-website
 
 command 2 : cd gta_final
 
